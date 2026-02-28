@@ -21,3 +21,6 @@ This project analyzes clinic operations and patient demographics using Power BI.
 
 ## 🛠 Tools Used
 Power BI | Power Query | DAX | Data Modeling
+## 📷 Dashboard Preview
+
+![Dashboard Preview](Complete_PowerBI_Dashboard_Overview.png)
